@@ -8,8 +8,8 @@ A Maven-based Java project that demonstrates the full spectrum of **lambda expre
 
 ```
 LambdaExpressions/
-├── pom.xml                              Maven build file (Java 24, no dependencies)
-├── README.md                            This file
+├── pom.xml                            
+├── README.md                            
 └── src/
     └── main/
         └── java/
